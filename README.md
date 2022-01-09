@@ -1,4 +1,4 @@
-# 1990
+# 2011 Script
 
 Make your Github history back to 2011.
 
